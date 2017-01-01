@@ -1,0 +1,3 @@
+ 	glyphicon glyphicon-qrcode 	
+	glyphicon glyphicon-barcode
+glyphicon glyphicon-tags
