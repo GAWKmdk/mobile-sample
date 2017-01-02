@@ -1,7 +1,9 @@
 # mobile-sample
-Built with MeteorJS - Sample Quote List from Meteor Cookbook to test deployment options
+Built with MeteorJS - Sample Quote List from Meteor Cookbook to test deployment options for development.
 
-Current fails due to "super-clean IT community" node packaging and ddp client configurations that don't support a no-bs transfer of service with the following: 
+Primary Objective: Deployment using Meteor add-platform android /add-platform ios to push hot code to an android-device and or ios device. Both work smoothly with significant support for Cordova wwb !!! 
+
+Secondary focus: Deployment to Host provider. Currently multiple fails due to "super-clean IT community" node packaging and ddp client configurations that don't support a no-bs transfer of service with the following: 
 
 - Heroku (clean git cli integration - poor built packages - poor freemium to test and scale services platform with mongolab/mongohg and more robust paid services options ie:security,etc).
 - IBM Bluemix (clean git cli integration - straightforward built package - poor support for freemium testing to scale or match first time users with service with paid services).
